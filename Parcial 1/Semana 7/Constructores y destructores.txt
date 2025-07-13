@@ -1,0 +1,2 @@
+Buenas Tardes, este archivo fue creado con la implementación de constructores y destructores.
+Los constructores y destructores son los encargados de inicializar un objeto cuando este es creado y cerrar o eliminar el espacio de memoria.
