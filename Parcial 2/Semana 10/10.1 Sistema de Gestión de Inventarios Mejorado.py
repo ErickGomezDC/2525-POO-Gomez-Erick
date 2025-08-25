@@ -179,7 +179,7 @@ def menu():
                 print("Error: los valores no son válidos.")
 
         elif opcion == "4":
-            nombre = input("Ingrese el nombre del producto a buscar: ")
+            nombre = input("Ingrese el nombre del producto que quiere buscar: ")
             inventario.buscar_producto(nombre)
 
         elif opcion == "5":
