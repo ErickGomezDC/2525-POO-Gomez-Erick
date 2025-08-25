@@ -1,0 +1,32 @@
+[
+    {
+        "id_producto": "001",
+        "nombre": "Tarjeta de video RTX 5090 ti super",
+        "cantidad": 5,
+        "precio": 2500.0
+    },
+    {
+        "id_producto": "002",
+        "nombre": "Procesador Intel Core i9-14900k",
+        "cantidad": 25,
+        "precio": 670.0
+    },
+    {
+        "id_producto": "003",
+        "nombre": "Procesador Ryzen 7 9800X 3D",
+        "cantidad": 10,
+        "precio": 650.0
+    },
+    {
+        "id_producto": "004",
+        "nombre": "MOTHERBOARD GIGABYTE UD B850M",
+        "cantidad": 15,
+        "precio": 170.0
+    },
+    {
+        "id_producto": "005",
+        "nombre": "MONITOR CURVO ASROCK",
+        "cantidad": 4,
+        "precio": 500.0
+    }
+]
