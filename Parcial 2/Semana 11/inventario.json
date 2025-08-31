@@ -1,0 +1,44 @@
+{
+    "SNV001": {
+        "id": "SNV001",
+        "nombre": "Libro de ciencias",
+        "cantidad": 5,
+        "precio": 20.0
+    },
+    "SNV002": {
+        "id": "SNV002",
+        "nombre": "Novela luna llena",
+        "cantidad": 9,
+        "precio": 15.0
+    },
+    "SNV003": {
+        "id": "SNV003",
+        "nombre": "Novela ligera re:zero",
+        "cantidad": 45,
+        "precio": 13.55
+    },
+    "SNV004": {
+        "id": "SNV004",
+        "nombre": "Libro interestelar",
+        "cantidad": 23,
+        "precio": 17.99
+    },
+    "SNV005": {
+        "id": "SNV005",
+        "nombre": "libro La Odisea",
+        "cantidad": 13,
+        "precio": 17.0
+    },
+    "SNV006": {
+        "id": "SNV006",
+        "nombre": "Libro La Ilíada",
+        "cantidad": 7,
+        "precio": 12.0
+    },
+    "SNV007": {
+        "id": "SNV007",
+        "nombre": "Libro Hamlet",
+        "cantidad": 19,
+        "precio": 19.99
+    }
+}
