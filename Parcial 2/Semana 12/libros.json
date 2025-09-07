@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Re:zero",
+        "autor": "Tappei Nagatsuki",
+        "categoria": "Novela Ligera",
+        "isbn": "9734612345322"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "categoria": "Novela",
+        "isbn": "9734612345324"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Novela clasica",
+        "isbn": "9734612345321"
+    },
+    {
+        "titulo": "El Principito",
+        "autor": "Antoine de Saint-Exupery",
+        "categoria": "Infantil",
+        "isbn": "9734612345323"
+    },
+    {
+        "titulo": "Cronica de una muerte anunciada",
+        "autor": "Gabriel Garcia Marquez",
+        "categoria": "Novela",
+        "isbn": "9734612345325"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "categoria": "Romance",
+        "isbn": "9734612345326"
+    },
+    {
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "categoria": "Poema",
+        "isbn": "9734612345327"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "categoria": "Ciencia ficcion",
+        "isbn": "9734612345328"
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "categoria": "Novela",
+        "isbn": "9734612345329"
+    },
+    {
+        "titulo": "Pizarnik poesia completa",
+        "autor": "Alejandra Pizarnik",
+        "categoria": "Poesia",
+        "isbn": "9734612345330"
+    }
+]

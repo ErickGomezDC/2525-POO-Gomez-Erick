@@ -1,0 +1,64 @@
+[
+    {
+        "nombre": "Erick",
+        "user_id": "AD01",
+        "prestados": [
+            "9734612345330"
+        ]
+    },
+    {
+        "nombre": "Juan",
+        "user_id": "AD02",
+        "prestados": [
+            "9734612345323"
+        ]
+    },
+    {
+        "nombre": "Maria",
+        "user_id": "AD03",
+        "prestados": [
+            "9734612345327"
+        ]
+    },
+    {
+        "nombre": "Carlos",
+        "user_id": "AD04",
+        "prestados": []
+    },
+    {
+        "nombre": "Luis",
+        "user_id": "AD05",
+        "prestados": [
+            "9734612345329"
+        ]
+    },
+    {
+        "nombre": "Dayana",
+        "user_id": "AD06",
+        "prestados": [
+            "9734612345322"
+        ]
+    },
+    {
+        "nombre": "Elena",
+        "user_id": "AD07",
+        "prestados": []
+    },
+    {
+        "nombre": "Miyabi",
+        "user_id": "AD08",
+        "prestados": []
+    },
+    {
+        "nombre": "Nino",
+        "user_id": "AD09",
+        "prestados": [
+            "9734612345326"
+        ]
+    },
+    {
+        "nombre": "Miguel",
+        "user_id": "AD10",
+        "prestados": []
+    }
+]
