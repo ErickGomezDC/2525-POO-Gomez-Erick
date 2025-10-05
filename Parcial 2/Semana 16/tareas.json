@@ -1,0 +1,26 @@
+[
+    {
+        "tarea": "Tarea de POO",
+        "fecha": "2025-10-05",
+        "hora": "04:45",
+        "estado": "Completada"
+    },
+    {
+        "tarea": "Tarea de Matematica II",
+        "fecha": "2025-10-05",
+        "hora": "17:00",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Practico experimental Estadistica",
+        "fecha": "2025-10-05",
+        "hora": "22:00",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Tarea de Sistemas operativos",
+        "fecha": "2025-10-04",
+        "hora": "14:30",
+        "estado": "Completada"
+    }
+]
