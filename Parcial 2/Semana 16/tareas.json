@@ -22,5 +22,11 @@
         "fecha": "2025-10-04",
         "hora": "14:30",
         "estado": "Completada"
+    },
+    {
+        "tarea": "Examen de POO",
+        "fecha": "2025-10-06",
+        "hora": "19:00",
+        "estado": "Pendiente"
     }
 ]
